@@ -1,4 +1,15 @@
 public class RPGCharacter {
+    public static void main(String[] args) {
+        int Strength, Mana, Magic, accurecy;
+        double Health, Sheilds, Damage, Critchance;
+        String Characterstats, Combatstats;
+
+
+
+
+
+
+    }
 
     /*Create a program that calculates an RPG Character's battle stats based on the character's physical stats.
     The physical and battle stat can be anything you wish provided it meets these criteria:
